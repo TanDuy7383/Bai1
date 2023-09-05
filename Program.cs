@@ -7,3 +7,10 @@ class hello
         Console.WriteLine("Hello, World!");
     }
 }
+class XinChao
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Xin Chao, The Gioi!");
+    }
+}
